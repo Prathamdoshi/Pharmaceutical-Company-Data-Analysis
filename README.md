@@ -40,7 +40,7 @@ This dataset contained information on the most recent animal study. In this stud
 
 <img src="images/3.png" width="600" height="400" />
 
-*Bar Chart: % Tumor Volume Change* The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `overall size of the tumor` over the course of the treatment.
+**Bar Chart: % Tumor Volume Change** The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `overall size of the tumor` over the course of the treatment.
 
 <img src="images/4.png" width="600" height="400" />
 
