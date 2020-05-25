@@ -30,7 +30,7 @@ This dataset contained information on the most recent animal study. In this stud
 ## Analysis & Metrics
 **Scatter Plot: Tumor Response to Treatment** The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `volume of the tumor` over the course of the treatment.
 
-<img src="images/1.png" width="1000" height="400" />
+<img src="images/1.png" />
 
 *Scatter Plot: Metastatic Spread During Treatment* The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `metastatic (cancer spreading) of the tumor` over the course of the treatment.
 
