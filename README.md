@@ -33,9 +33,11 @@ This dataset contained information on the most recent animal study. In this stud
 <img src="images/1.png" width="600" height="400" />
 
 *Scatter Plot: Metastatic Spread During Treatment* The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `metastatic (cancer spreading) of the tumor` over the course of the treatment.
+<img src="images/2.png" width="600" height="400" />
 
 *Scatter Plot: Survival During Treatment* The point of this chart was aggregate the data on effect of `Capomulin, Infubinol, Ketapril, and Placebo` on the `survival rate of the mice` over the course of the treatment.
 
+<img src="images/3.png" width="600" height="400" />
 
 ## Conclusions
 * Overall, it is clear that Capomulin outperforms all other treatment options in the screen.
