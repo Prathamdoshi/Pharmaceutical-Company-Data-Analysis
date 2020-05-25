@@ -50,7 +50,7 @@ This dataset contained information on the most recent animal study. In this stud
 * Capomulin greatly limited the spread of the tumor compared to other treatment options. By study end, the average mouse on Capomulin had only 1 new metastatic site, as opposed to the average 2-3 found in mice of other treatment options.
 * Lastly, mice on the Capomulin treatment had the highest survival rate of any treatment in the screen. Over 90% of mice treated by Capomulin survived the full duration of the trial, compared to only 35-45% of mice on other treatment options. 
 
-## Advantages
-* Using this data, Uber's marketing team can set prices that are normalized in all differenty type of cities.
-* Moreover, the marketing team can then focus on increasing the amount of drivers in rural areas so the fare can get cheaper.
-* The marketing team can further deep dive in to this data to target specific riders.
+## Advantages and Insights
+* Through this the pharma company further perform analysis on the  Capomulin drug. 
+* The drugs that failed can be ruled out and more resources can be spent on the Drugs that had similar performance to Capomulin. 
+* This shows the power of data analytics and visualization which with the right use can save time and yield out great insights in matter of hours. 
